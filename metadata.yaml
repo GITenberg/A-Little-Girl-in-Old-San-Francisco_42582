@@ -1,0 +1,30 @@
+_repo: A-Little-Girl-in-Old-San-Francisco_42582
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42582-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: ''
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'San Francisco (Calif.) -- Social life and customs -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Spanish Americans -- Juvenile fiction'
+title: A Little Girl in Old San Francisco
+url: http://www.gutenberg.org/ebooks/42582
